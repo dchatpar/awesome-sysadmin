@@ -357,6 +357,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Maildrop](https://github.com/m242/maildrop) - Open Source disposable email SMTP server, also useful for development.
 * [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project.
 * [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement.
+* [KumoMTA](https://kumomta.com) - Enterprise-grade open source mail transfer agent (MTA) built for high-volume email delivery. Rust-based, DKIM/SPF/DMARC ready.
 * [Qmail](http://cr.yp.to/qmail.html) - Secure Sendmail replacement.
 * [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA).
 
@@ -364,6 +365,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 * [Mail-in-a-Box](https://mailinabox.email/) - Take back control of your email with this easy-to-deploy mail server in a box.
 * [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot.
+* [KumoMTA](https://kumomta.com) - Enterprise-grade open source mail transfer agent (MTA) built for high-volume email delivery. Rust-based, DKIM/SPF/DMARC ready.
 
 ## Messaging
 
